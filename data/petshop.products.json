@@ -1,0 +1,7244 @@
+[
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe765"
+    },
+    "name": "Cat Food Item 1",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 36,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=1",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=1"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Cat food",
+      "Natural",
+      "Cat"
+    ],
+    "petType": "Dog",
+    "stock": 102,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 48,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.980Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.980Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe766"
+    },
+    "name": "Cat Food Item 2",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 82,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=2",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=2"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Rabbit",
+    "stock": 27,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 16,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe767"
+    },
+    "name": "Cat Food Item 3",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 91,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=3",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=3"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 95,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 48,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe768"
+    },
+    "name": "Cat Food Item 4",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 68,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=4",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=4"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Small dog"
+    ],
+    "petType": "Cat",
+    "stock": 31,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 17,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe769"
+    },
+    "name": "Cat Food Item 5",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 39,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=5",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=5"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Cat",
+    "stock": 101,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 21,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe76a"
+    },
+    "name": "Cat Food Item 6",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 41,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=6",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=6"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Cat food",
+      "Cat"
+    ],
+    "petType": "Rabbit",
+    "stock": 85,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 20,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.981Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe76b"
+    },
+    "name": "Cat Food Item 7",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 80,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=7",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=7"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 66,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 40,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe76c"
+    },
+    "name": "Cat Food Item 8",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 60,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=8",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=8"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Natural",
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 12,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 28,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe76d"
+    },
+    "name": "Cat Food Item 9",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 70,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=9",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=9"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Parrot",
+    "stock": 12,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 5,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe76e"
+    },
+    "name": "Cat Food Item 10",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 86,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=10",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=10"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Parrot",
+    "stock": 32,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 33,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe76f"
+    },
+    "name": "Cat Food Item 11",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 43,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=11",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=11"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat",
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 36,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 33,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe770"
+    },
+    "name": "Cat Food Item 12",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 36,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=12",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=12"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 31,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 8,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe771"
+    },
+    "name": "Cat Food Item 13",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 64,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=13",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=13"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Natural"
+    ],
+    "petType": "Turtle",
+    "stock": 15,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 49,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe772"
+    },
+    "name": "Cat Food Item 14",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 76,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=14",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=14"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat food",
+      "Dog food",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 75,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 29,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe773"
+    },
+    "name": "Cat Food Item 15",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 16,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=15",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=15"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet",
+      "Small dog"
+    ],
+    "petType": "Turtle",
+    "stock": 81,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 39,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe774"
+    },
+    "name": "Cat Food Item 16",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 91,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=16",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=16"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 85,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 38,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe775"
+    },
+    "name": "Cat Food Item 17",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 64,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=17",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=17"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Rabbit",
+    "stock": 95,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 22,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe776"
+    },
+    "name": "Cat Food Item 18",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 67,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=18",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=18"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Dog",
+    "stock": 42,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe777"
+    },
+    "name": "Cat Food Item 19",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 44,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=19",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=19"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Sweet",
+      "Cat food"
+    ],
+    "petType": "Turtle",
+    "stock": 61,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 0,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe778"
+    },
+    "name": "Cat Food Item 20",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 35,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=20",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=20"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Cat"
+    ],
+    "petType": "Rabbit",
+    "stock": 29,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 24,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe779"
+    },
+    "name": "Cat Food Item 21",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 87,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=21",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=21"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Small dog"
+    ],
+    "petType": "Rabbit",
+    "stock": 64,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 37,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.982Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe77a"
+    },
+    "name": "Cat Food Item 22",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 75,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=22",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=22"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat food",
+      "Dog food"
+    ],
+    "petType": "Rabbit",
+    "stock": 59,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 19,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe77b"
+    },
+    "name": "Cat Food Item 23",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 25,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=23",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=23"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 101,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 34,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe77c"
+    },
+    "name": "Cat Food Item 24",
+    "description": "High quality Cat Food for your beloved pet.",
+    "price": 50,
+    "image": "https://loremflickr.com/900/900/cat,food?lock=24",
+    "images": [
+      "https://loremflickr.com/900/900/cat,food?lock=24"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe756"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Turtle",
+    "stock": 83,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 31,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe77d"
+    },
+    "name": "Bowls Item 1",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 32,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10001",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10001"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 12,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 4,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe77e"
+    },
+    "name": "Bowls Item 2",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 67,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10002",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10002"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural",
+      "Cat food"
+    ],
+    "petType": "Rabbit",
+    "stock": 40,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 0,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe77f"
+    },
+    "name": "Bowls Item 3",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 82,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10003",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10003"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 67,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 33,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe780"
+    },
+    "name": "Bowls Item 4",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 34,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10004",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10004"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural",
+      "Sweet",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 19,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 14,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe781"
+    },
+    "name": "Bowls Item 5",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 47,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10005",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10005"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Natural",
+      "Sweet",
+      "Small dog"
+    ],
+    "petType": "Hamster",
+    "stock": 19,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe782"
+    },
+    "name": "Bowls Item 6",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 67,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10006",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10006"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Parrot",
+    "stock": 88,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 27,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe783"
+    },
+    "name": "Bowls Item 7",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 15,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10007",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10007"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Rabbit",
+    "stock": 45,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 42,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe784"
+    },
+    "name": "Bowls Item 8",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 48,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10008",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10008"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Natural",
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 97,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 48,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe785"
+    },
+    "name": "Bowls Item 9",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 11,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10009",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10009"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Dog food",
+      "Cat",
+      "Small dog"
+    ],
+    "petType": "Turtle",
+    "stock": 27,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 0,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe786"
+    },
+    "name": "Bowls Item 10",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 54,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10010",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10010"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Rabbit",
+    "stock": 71,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 24,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe787"
+    },
+    "name": "Bowls Item 11",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 33,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10011",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10011"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 69,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe788"
+    },
+    "name": "Bowls Item 12",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 47,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10012",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10012"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Cat food"
+    ],
+    "petType": "Dog",
+    "stock": 95,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 30,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe789"
+    },
+    "name": "Bowls Item 13",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 11,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10013",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10013"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Rabbit",
+    "stock": 87,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 42,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe78a"
+    },
+    "name": "Bowls Item 14",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 73,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10014",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10014"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet",
+      "Natural"
+    ],
+    "petType": "Hamster",
+    "stock": 65,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 2,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe78b"
+    },
+    "name": "Bowls Item 15",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 68,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10015",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10015"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Sweet",
+      "Cat food"
+    ],
+    "petType": "Turtle",
+    "stock": 107,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 24,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe78c"
+    },
+    "name": "Bowls Item 16",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 41,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10016",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10016"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat",
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 106,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 29,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe78d"
+    },
+    "name": "Bowls Item 17",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 56,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10017",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10017"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat food",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 32,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 45,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe78e"
+    },
+    "name": "Bowls Item 18",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 15,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10018",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10018"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat"
+    ],
+    "petType": "Hamster",
+    "stock": 66,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe78f"
+    },
+    "name": "Bowls Item 19",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 96,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10019",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10019"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 47,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.983Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe790"
+    },
+    "name": "Bowls Item 20",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 82,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10020",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10020"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Natural",
+      "Sweet"
+    ],
+    "petType": "Turtle",
+    "stock": 59,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 11,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe791"
+    },
+    "name": "Bowls Item 21",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 59,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10021",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10021"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat",
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Turtle",
+    "stock": 79,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 1,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe792"
+    },
+    "name": "Bowls Item 22",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 33,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10022",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10022"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Natural",
+      "Dog food"
+    ],
+    "petType": "Dog",
+    "stock": 73,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe793"
+    },
+    "name": "Bowls Item 23",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 40,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10023",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10023"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Cat food"
+    ],
+    "petType": "Rabbit",
+    "stock": 37,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 5,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe794"
+    },
+    "name": "Bowls Item 24",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 45,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10024",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10024"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Small dog",
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 25,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 3,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe795"
+    },
+    "name": "Bowls Item 25",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 66,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10025",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10025"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Cat",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 67,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 27,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe796"
+    },
+    "name": "Bowls Item 26",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 11,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10026",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10026"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 103,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 42,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe797"
+    },
+    "name": "Bowls Item 27",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 11,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10027",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10027"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Turtle",
+    "stock": 85,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 10,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe798"
+    },
+    "name": "Bowls Item 28",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 65,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10028",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10028"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Cat",
+    "stock": 86,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 42,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe799"
+    },
+    "name": "Bowls Item 29",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 78,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10029",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10029"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Sweet",
+      "Natural"
+    ],
+    "petType": "Turtle",
+    "stock": 93,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 46,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe79a"
+    },
+    "name": "Bowls Item 30",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 58,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10030",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10030"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Parrot",
+    "stock": 72,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 40,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe79b"
+    },
+    "name": "Bowls Item 31",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 66,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10031",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10031"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Natural",
+      "Sweet",
+      "Dog food"
+    ],
+    "petType": "Cat",
+    "stock": 56,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 31,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe79c"
+    },
+    "name": "Bowls Item 32",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 62,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10032",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10032"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Turtle",
+    "stock": 67,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 44,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe79d"
+    },
+    "name": "Bowls Item 33",
+    "description": "High quality Bowls for your beloved pet.",
+    "price": 66,
+    "image": "https://loremflickr.com/900/900/pet,bowl?lock=10033",
+    "images": [
+      "https://loremflickr.com/900/900/pet,bowl?lock=10033"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe757"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat",
+      "Dog food"
+    ],
+    "petType": "Turtle",
+    "stock": 106,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 8,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe79e"
+    },
+    "name": "Clothes Item 1",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 54,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20001",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20001"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat",
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 80,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 22,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe79f"
+    },
+    "name": "Clothes Item 2",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 12,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20002",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20002"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Dog",
+    "stock": 35,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 33,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a0"
+    },
+    "name": "Clothes Item 3",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 84,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20003",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20003"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 66,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 18,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a1"
+    },
+    "name": "Clothes Item 4",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 53,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20004",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20004"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog",
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 60,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 30,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a2"
+    },
+    "name": "Clothes Item 5",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 14,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20005",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20005"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural",
+      "Cat food",
+      "Dog food"
+    ],
+    "petType": "Turtle",
+    "stock": 102,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 15,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a3"
+    },
+    "name": "Clothes Item 6",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 71,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20006",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20006"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Cat food",
+      "Dog food"
+    ],
+    "petType": "Turtle",
+    "stock": 74,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 6,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a4"
+    },
+    "name": "Clothes Item 7",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 10,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20007",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20007"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 74,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 8,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a5"
+    },
+    "name": "Clothes Item 8",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 41,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20008",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20008"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog",
+      "Dog food"
+    ],
+    "petType": "Cat",
+    "stock": 41,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 44,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a6"
+    },
+    "name": "Clothes Item 9",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 83,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20009",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20009"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food",
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 68,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 38,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a7"
+    },
+    "name": "Clothes Item 10",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 49,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20010",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20010"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food",
+      "Cat",
+      "Natural"
+    ],
+    "petType": "Hamster",
+    "stock": 60,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 35,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a8"
+    },
+    "name": "Clothes Item 11",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 49,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20011",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20011"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Natural",
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Rabbit",
+    "stock": 70,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 43,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7a9"
+    },
+    "name": "Clothes Item 12",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 55,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20012",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20012"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Cat",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 19,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7aa"
+    },
+    "name": "Clothes Item 13",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 39,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20013",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20013"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 48,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 16,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ab"
+    },
+    "name": "Clothes Item 14",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 90,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20014",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20014"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Cat"
+    ],
+    "petType": "Parrot",
+    "stock": 83,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 10,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ac"
+    },
+    "name": "Clothes Item 15",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 31,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20015",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20015"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 17,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 22,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ad"
+    },
+    "name": "Clothes Item 16",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 21,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20016",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20016"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Turtle",
+    "stock": 26,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 25,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ae"
+    },
+    "name": "Clothes Item 17",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 53,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20017",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20017"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Parrot",
+    "stock": 60,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 21,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7af"
+    },
+    "name": "Clothes Item 18",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 53,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20018",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20018"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 10,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 34,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b0"
+    },
+    "name": "Clothes Item 19",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 82,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20019",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20019"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 89,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 36,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b1"
+    },
+    "name": "Clothes Item 20",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 53,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20020",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20020"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 13,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 38,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b2"
+    },
+    "name": "Clothes Item 21",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 90,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20021",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20021"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Parrot",
+    "stock": 63,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 1,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b3"
+    },
+    "name": "Clothes Item 22",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 60,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20022",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20022"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Parrot",
+    "stock": 68,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 1,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b4"
+    },
+    "name": "Clothes Item 23",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 81,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20023",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20023"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Cat",
+    "stock": 108,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 31,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b5"
+    },
+    "name": "Clothes Item 24",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 96,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20024",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20024"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Cat",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 106,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 36,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b6"
+    },
+    "name": "Clothes Item 25",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 23,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20025",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20025"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Turtle",
+    "stock": 78,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 25,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b7"
+    },
+    "name": "Clothes Item 26",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 42,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20026",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20026"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat food",
+      "Cat"
+    ],
+    "petType": "Rabbit",
+    "stock": 10,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 27,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b8"
+    },
+    "name": "Clothes Item 27",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 91,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20027",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20027"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat food",
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Parrot",
+    "stock": 39,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 37,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7b9"
+    },
+    "name": "Clothes Item 28",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 93,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20028",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20028"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Cat",
+    "stock": 10,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 4,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ba"
+    },
+    "name": "Clothes Item 29",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 64,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20029",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20029"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Rabbit",
+    "stock": 47,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 0,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7bb"
+    },
+    "name": "Clothes Item 30",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 26,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20030",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20030"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Small dog",
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 98,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 2,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7bc"
+    },
+    "name": "Clothes Item 31",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 72,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20031",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20031"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 11,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7bd"
+    },
+    "name": "Clothes Item 32",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 17,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20032",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20032"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 93,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7be"
+    },
+    "name": "Clothes Item 33",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 31,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20033",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20033"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Turtle",
+    "stock": 43,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 24,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7bf"
+    },
+    "name": "Clothes Item 34",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 78,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20034",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20034"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Hamster",
+    "stock": 85,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 40,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c0"
+    },
+    "name": "Clothes Item 35",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 59,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20035",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20035"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Natural",
+      "Cat food"
+    ],
+    "petType": "Rabbit",
+    "stock": 68,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 3,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c1"
+    },
+    "name": "Clothes Item 36",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 99,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20036",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20036"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Parrot",
+    "stock": 22,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 48,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c2"
+    },
+    "name": "Clothes Item 37",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 63,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20037",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20037"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Turtle",
+    "stock": 56,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 40,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c3"
+    },
+    "name": "Clothes Item 38",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 73,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20038",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20038"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Natural",
+      "Cat",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 83,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 8,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c4"
+    },
+    "name": "Clothes Item 39",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 93,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20039",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20039"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat",
+      "Small dog"
+    ],
+    "petType": "Parrot",
+    "stock": 71,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 43,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.985Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c5"
+    },
+    "name": "Clothes Item 40",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 78,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20040",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20040"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural",
+      "Cat",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 106,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 20,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c6"
+    },
+    "name": "Clothes Item 41",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 65,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20041",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20041"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat food",
+      "Small dog"
+    ],
+    "petType": "Turtle",
+    "stock": 58,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 23,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c7"
+    },
+    "name": "Clothes Item 42",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 71,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20042",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20042"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Turtle",
+    "stock": 54,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 29,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c8"
+    },
+    "name": "Clothes Item 43",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 38,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20043",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20043"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet",
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 27,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 38,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7c9"
+    },
+    "name": "Clothes Item 44",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 22,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20044",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20044"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 88,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 14,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ca"
+    },
+    "name": "Clothes Item 45",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 43,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20045",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20045"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Sweet",
+      "Dog food",
+      "Cat"
+    ],
+    "petType": "Parrot",
+    "stock": 71,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 25,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7cb"
+    },
+    "name": "Clothes Item 46",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 10,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20046",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20046"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog",
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 90,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 3,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7cc"
+    },
+    "name": "Clothes Item 47",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 26,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20047",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20047"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Small dog",
+      "Cat",
+      "Sweet"
+    ],
+    "petType": "Turtle",
+    "stock": 81,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 17,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.986Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7cd"
+    },
+    "name": "Clothes Item 48",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 65,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20048",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20048"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Cat",
+    "stock": 19,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 30,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.987Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.987Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ce"
+    },
+    "name": "Clothes Item 49",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 60,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20049",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20049"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Dog",
+    "stock": 84,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 14,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.987Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.987Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7cf"
+    },
+    "name": "Clothes Item 50",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 99,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20050",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20050"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Small dog",
+      "Dog food"
+    ],
+    "petType": "Turtle",
+    "stock": 69,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.987Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.987Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d0"
+    },
+    "name": "Clothes Item 51",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 78,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20051",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20051"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet",
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 58,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 39,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d1"
+    },
+    "name": "Clothes Item 52",
+    "description": "High quality Clothes for your beloved pet.",
+    "price": 18,
+    "image": "https://loremflickr.com/900/900/dog,clothes?lock=20052",
+    "images": [
+      "https://loremflickr.com/900/900/dog,clothes?lock=20052"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe758"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Small dog",
+      "Dog food",
+      "Cat"
+    ],
+    "petType": "Hamster",
+    "stock": 43,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d2"
+    },
+    "name": "Food Item 1",
+    "description": "High quality Food for your beloved pet.",
+    "price": 48,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30001",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30001"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Cat",
+    "stock": 50,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 15,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d3"
+    },
+    "name": "Food Item 2",
+    "description": "High quality Food for your beloved pet.",
+    "price": 83,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30002",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30002"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Small dog"
+    ],
+    "petType": "Hamster",
+    "stock": 102,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 2,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d4"
+    },
+    "name": "Food Item 3",
+    "description": "High quality Food for your beloved pet.",
+    "price": 91,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30003",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30003"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 44,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d5"
+    },
+    "name": "Food Item 4",
+    "description": "High quality Food for your beloved pet.",
+    "price": 38,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30004",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30004"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Parrot",
+    "stock": 54,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 24,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d6"
+    },
+    "name": "Food Item 5",
+    "description": "High quality Food for your beloved pet.",
+    "price": 27,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30005",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30005"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Cat",
+    "stock": 20,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 40,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d7"
+    },
+    "name": "Food Item 6",
+    "description": "High quality Food for your beloved pet.",
+    "price": 56,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30006",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30006"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet",
+      "Dog food",
+      "Cat"
+    ],
+    "petType": "Rabbit",
+    "stock": 86,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 29,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d8"
+    },
+    "name": "Food Item 7",
+    "description": "High quality Food for your beloved pet.",
+    "price": 74,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30007",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30007"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat",
+      "Sweet"
+    ],
+    "petType": "Rabbit",
+    "stock": 86,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 1,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.988Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7d9"
+    },
+    "name": "Food Item 8",
+    "description": "High quality Food for your beloved pet.",
+    "price": 99,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30008",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30008"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Parrot",
+    "stock": 71,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 34,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7da"
+    },
+    "name": "Food Item 9",
+    "description": "High quality Food for your beloved pet.",
+    "price": 36,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30009",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30009"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 18,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 37,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7db"
+    },
+    "name": "Food Item 10",
+    "description": "High quality Food for your beloved pet.",
+    "price": 76,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30010",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30010"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Natural",
+      "Sweet"
+    ],
+    "petType": "Turtle",
+    "stock": 93,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 30,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7dc"
+    },
+    "name": "Food Item 11",
+    "description": "High quality Food for your beloved pet.",
+    "price": 97,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30011",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30011"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 108,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 40,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7dd"
+    },
+    "name": "Food Item 12",
+    "description": "High quality Food for your beloved pet.",
+    "price": 76,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30012",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30012"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Natural",
+      "Dog food"
+    ],
+    "petType": "Dog",
+    "stock": 101,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 22,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7de"
+    },
+    "name": "Food Item 13",
+    "description": "High quality Food for your beloved pet.",
+    "price": 87,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30013",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30013"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Small dog",
+      "Dog food",
+      "Cat"
+    ],
+    "petType": "Dog",
+    "stock": 101,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 33,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.989Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7df"
+    },
+    "name": "Food Item 14",
+    "description": "High quality Food for your beloved pet.",
+    "price": 34,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30014",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30014"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Cat food",
+      "Sweet",
+      "Dog food"
+    ],
+    "petType": "Cat",
+    "stock": 87,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 22,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.990Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.990Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e0"
+    },
+    "name": "Food Item 15",
+    "description": "High quality Food for your beloved pet.",
+    "price": 21,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30015",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30015"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Hamster",
+    "stock": 62,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 13,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.990Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.990Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e1"
+    },
+    "name": "Food Item 16",
+    "description": "High quality Food for your beloved pet.",
+    "price": 40,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30016",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30016"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Natural",
+      "Cat"
+    ],
+    "petType": "Hamster",
+    "stock": 22,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 25,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.993Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.993Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e2"
+    },
+    "name": "Food Item 17",
+    "description": "High quality Food for your beloved pet.",
+    "price": 15,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30017",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30017"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Dog",
+    "stock": 19,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 16,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.993Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.993Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e3"
+    },
+    "name": "Food Item 18",
+    "description": "High quality Food for your beloved pet.",
+    "price": 13,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30018",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30018"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Turtle",
+    "stock": 34,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 16,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e4"
+    },
+    "name": "Food Item 19",
+    "description": "High quality Food for your beloved pet.",
+    "price": 81,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30019",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30019"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Natural",
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 75,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 13,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e5"
+    },
+    "name": "Food Item 20",
+    "description": "High quality Food for your beloved pet.",
+    "price": 49,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30020",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30020"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Cat food"
+    ],
+    "petType": "Dog",
+    "stock": 103,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 6,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e6"
+    },
+    "name": "Food Item 21",
+    "description": "High quality Food for your beloved pet.",
+    "price": 88,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30021",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30021"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Cat",
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Rabbit",
+    "stock": 49,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 23,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e7"
+    },
+    "name": "Food Item 22",
+    "description": "High quality Food for your beloved pet.",
+    "price": 37,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30022",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30022"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 38,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 24,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e8"
+    },
+    "name": "Food Item 23",
+    "description": "High quality Food for your beloved pet.",
+    "price": 46,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30023",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30023"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Small dog",
+      "Dog food"
+    ],
+    "petType": "Hamster",
+    "stock": 20,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 2,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7e9"
+    },
+    "name": "Food Item 24",
+    "description": "High quality Food for your beloved pet.",
+    "price": 22,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30024",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30024"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Cat",
+      "Natural",
+      "Cat food"
+    ],
+    "petType": "Dog",
+    "stock": 29,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ea"
+    },
+    "name": "Food Item 25",
+    "description": "High quality Food for your beloved pet.",
+    "price": 58,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30025",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30025"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Dog",
+    "stock": 71,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 20,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7eb"
+    },
+    "name": "Food Item 26",
+    "description": "High quality Food for your beloved pet.",
+    "price": 17,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30026",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30026"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Small dog"
+    ],
+    "petType": "Hamster",
+    "stock": 57,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 43,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ec"
+    },
+    "name": "Food Item 27",
+    "description": "High quality Food for your beloved pet.",
+    "price": 25,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30027",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30027"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Rabbit",
+    "stock": 28,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 46,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ed"
+    },
+    "name": "Food Item 28",
+    "description": "High quality Food for your beloved pet.",
+    "price": 80,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30028",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30028"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 55,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 5,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ee"
+    },
+    "name": "Food Item 29",
+    "description": "High quality Food for your beloved pet.",
+    "price": 85,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30029",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30029"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Small dog",
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 100,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 26,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ef"
+    },
+    "name": "Food Item 30",
+    "description": "High quality Food for your beloved pet.",
+    "price": 22,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30030",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30030"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Cat"
+    ],
+    "petType": "Rabbit",
+    "stock": 79,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 23,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f0"
+    },
+    "name": "Food Item 31",
+    "description": "High quality Food for your beloved pet.",
+    "price": 91,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30031",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30031"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 32,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 38,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f1"
+    },
+    "name": "Food Item 32",
+    "description": "High quality Food for your beloved pet.",
+    "price": 77,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30032",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30032"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Dog food",
+      "Sweet",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 14,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 45,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f2"
+    },
+    "name": "Food Item 33",
+    "description": "High quality Food for your beloved pet.",
+    "price": 57,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30033",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30033"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural",
+      "Cat food",
+      "Cat"
+    ],
+    "petType": "Parrot",
+    "stock": 43,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 31,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f3"
+    },
+    "name": "Food Item 34",
+    "description": "High quality Food for your beloved pet.",
+    "price": 17,
+    "image": "https://loremflickr.com/900/900/dog,food?lock=30034",
+    "images": [
+      "https://loremflickr.com/900/900/dog,food?lock=30034"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe759"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Rabbit",
+    "stock": 30,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 26,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f4"
+    },
+    "name": "Toys Item 1",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 75,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40001",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40001"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Cat"
+    ],
+    "petType": "Parrot",
+    "stock": 42,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 21,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f5"
+    },
+    "name": "Toys Item 2",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 97,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40002",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40002"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Dog",
+    "stock": 83,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 20,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f6"
+    },
+    "name": "Toys Item 3",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 89,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40003",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40003"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Natural",
+      "Small dog",
+      "Cat"
+    ],
+    "petType": "Cat",
+    "stock": 17,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 5,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f7"
+    },
+    "name": "Toys Item 4",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 57,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40004",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40004"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Sweet",
+      "Cat",
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 97,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 44,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f8"
+    },
+    "name": "Toys Item 5",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 58,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40005",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40005"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat food",
+      "Small dog"
+    ],
+    "petType": "Hamster",
+    "stock": 79,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 22,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7f9"
+    },
+    "name": "Toys Item 6",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 25,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40006",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40006"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat",
+      "Small dog"
+    ],
+    "petType": "Turtle",
+    "stock": 50,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 47,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7fa"
+    },
+    "name": "Toys Item 7",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 70,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40007",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40007"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat food",
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 98,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 22,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7fb"
+    },
+    "name": "Toys Item 8",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 15,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40008",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40008"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Sweet"
+    ],
+    "petType": "Hamster",
+    "stock": 62,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 29,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7fc"
+    },
+    "name": "Toys Item 9",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 69,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40009",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40009"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Dog",
+    "stock": 30,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 35,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7fd"
+    },
+    "name": "Toys Item 10",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 66,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40010",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40010"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Sweet",
+      "Small dog",
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 78,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 42,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7fe"
+    },
+    "name": "Toys Item 11",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 74,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40011",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40011"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat food",
+      "Dog food",
+      "Small dog"
+    ],
+    "petType": "Rabbit",
+    "stock": 89,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 5,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe7ff"
+    },
+    "name": "Toys Item 12",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 22,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40012",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40012"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet",
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 46,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 40,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe800"
+    },
+    "name": "Toys Item 13",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 85,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40013",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40013"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Cat food",
+      "Natural",
+      "Dog food"
+    ],
+    "petType": "Rabbit",
+    "stock": 39,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 47,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe801"
+    },
+    "name": "Toys Item 14",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 96,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40014",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40014"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Small dog",
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 47,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 37,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe802"
+    },
+    "name": "Toys Item 15",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 74,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40015",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40015"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat",
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 48,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 1,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe803"
+    },
+    "name": "Toys Item 16",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 24,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40016",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40016"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 10,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 33,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe804"
+    },
+    "name": "Toys Item 17",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 50,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40017",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40017"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 106,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 43,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe805"
+    },
+    "name": "Toys Item 18",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 67,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40018",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40018"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Cat",
+      "Small dog",
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 88,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 15,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe806"
+    },
+    "name": "Toys Item 19",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 64,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40019",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40019"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Dog",
+    "stock": 19,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 0,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.995Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe807"
+    },
+    "name": "Toys Item 20",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 17,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40020",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40020"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Natural",
+      "Cat food",
+      "Dog food"
+    ],
+    "petType": "Cat",
+    "stock": 54,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 19,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe808"
+    },
+    "name": "Toys Item 21",
+    "description": "High quality Toys for your beloved pet.",
+    "price": 71,
+    "image": "https://loremflickr.com/900/900/dog,toy?lock=40021",
+    "images": [
+      "https://loremflickr.com/900/900/dog,toy?lock=40021"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75a"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Cat",
+    "stock": 81,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 25,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe809"
+    },
+    "name": "Beds Item 1",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 20,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50001",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50001"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Turtle",
+    "stock": 86,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 7,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe80a"
+    },
+    "name": "Beds Item 2",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 59,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50002",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50002"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Dog food",
+      "Sweet",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 10,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 20,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe80b"
+    },
+    "name": "Beds Item 3",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 15,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50003",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50003"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Sweet",
+      "Dog food"
+    ],
+    "petType": "Rabbit",
+    "stock": 107,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 10,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe80c"
+    },
+    "name": "Beds Item 4",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 18,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50004",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50004"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Hamster",
+    "stock": 29,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 6,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe80d"
+    },
+    "name": "Beds Item 5",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 33,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50005",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50005"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Dog",
+    "stock": 28,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 2,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe80e"
+    },
+    "name": "Beds Item 6",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 58,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50006",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50006"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Turtle",
+    "stock": 28,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 16,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe80f"
+    },
+    "name": "Beds Item 7",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 15,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50007",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50007"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Cat",
+      "Dog food"
+    ],
+    "petType": "Rabbit",
+    "stock": 22,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 14,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe810"
+    },
+    "name": "Beds Item 8",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 84,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50008",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50008"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Cat"
+    ],
+    "petType": "Hamster",
+    "stock": 92,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 39,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe811"
+    },
+    "name": "Beds Item 9",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 43,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50009",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50009"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Rabbit",
+    "stock": 33,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 25,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe812"
+    },
+    "name": "Beds Item 10",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 79,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50010",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50010"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet",
+      "Natural"
+    ],
+    "petType": "Rabbit",
+    "stock": 52,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 25,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe813"
+    },
+    "name": "Beds Item 11",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 92,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50011",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50011"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Rabbit",
+    "stock": 75,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 49,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe814"
+    },
+    "name": "Beds Item 12",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 86,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50012",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50012"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75f"
+    },
+    "tags": [
+      "Natural",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 76,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 42,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe815"
+    },
+    "name": "Beds Item 13",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 35,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50013",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50013"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Natural",
+      "Cat food",
+      "Small dog"
+    ],
+    "petType": "Parrot",
+    "stock": 62,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 39,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe816"
+    },
+    "name": "Beds Item 14",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 21,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50014",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50014"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Cat",
+      "Small dog"
+    ],
+    "petType": "Hamster",
+    "stock": 90,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 30,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe817"
+    },
+    "name": "Beds Item 15",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 97,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50015",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50015"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Natural",
+      "Cat",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 34,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 5,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe818"
+    },
+    "name": "Beds Item 16",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 81,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50016",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50016"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet",
+      "Natural",
+      "Small dog"
+    ],
+    "petType": "Dog",
+    "stock": 107,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 30,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe819"
+    },
+    "name": "Beds Item 17",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 34,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50017",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50017"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat",
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 12,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 30,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe81a"
+    },
+    "name": "Beds Item 18",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 45,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50018",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50018"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Dog",
+    "stock": 56,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 44,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe81b"
+    },
+    "name": "Beds Item 19",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 86,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50019",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50019"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Hamster",
+    "stock": 52,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 1,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe81c"
+    },
+    "name": "Beds Item 20",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 70,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50020",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50020"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Cat food"
+    ],
+    "petType": "Hamster",
+    "stock": 49,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 48,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe81d"
+    },
+    "name": "Beds Item 21",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 16,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50021",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50021"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 61,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 43,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe81e"
+    },
+    "name": "Beds Item 22",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 84,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50022",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50022"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Parrot",
+    "stock": 109,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 38,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe81f"
+    },
+    "name": "Beds Item 23",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 22,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50023",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50023"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Cat"
+    ],
+    "petType": "Turtle",
+    "stock": 18,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 46,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe820"
+    },
+    "name": "Beds Item 24",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 39,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50024",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50024"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Sweet",
+      "Cat",
+      "Natural"
+    ],
+    "petType": "Rabbit",
+    "stock": 98,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe821"
+    },
+    "name": "Beds Item 25",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 31,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50025",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50025"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75e"
+    },
+    "tags": [
+      "Dog food"
+    ],
+    "petType": "Cat",
+    "stock": 59,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 42,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe822"
+    },
+    "name": "Beds Item 26",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 90,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50026",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50026"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe760"
+    },
+    "tags": [
+      "Small dog",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Turtle",
+    "stock": 88,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 43,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe823"
+    },
+    "name": "Beds Item 27",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 58,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50027",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50027"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat"
+    ],
+    "petType": "Hamster",
+    "stock": 95,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 11,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe824"
+    },
+    "name": "Beds Item 28",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 74,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50028",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50028"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Turtle",
+    "stock": 12,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 10,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe825"
+    },
+    "name": "Beds Item 29",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 95,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50029",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50029"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Dog food",
+      "Cat"
+    ],
+    "petType": "Hamster",
+    "stock": 108,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 23,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe826"
+    },
+    "name": "Beds Item 30",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 83,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50030",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50030"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Cat",
+      "Cat food",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 80,
+    "lowStockThreshold": 5,
+    "rating": 3,
+    "numReviews": 39,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe827"
+    },
+    "name": "Beds Item 31",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 91,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50031",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50031"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Cat",
+    "stock": 51,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 9,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe828"
+    },
+    "name": "Beds Item 32",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 11,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50032",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50032"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Natural"
+    ],
+    "petType": "Rabbit",
+    "stock": 25,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 2,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe829"
+    },
+    "name": "Beds Item 33",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 44,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50033",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50033"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75c"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food"
+    ],
+    "petType": "Parrot",
+    "stock": 85,
+    "lowStockThreshold": 5,
+    "rating": 2,
+    "numReviews": 0,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.996Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe82a"
+    },
+    "name": "Beds Item 34",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 38,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50034",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50034"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Dog food",
+      "Cat food",
+      "Natural"
+    ],
+    "petType": "Turtle",
+    "stock": 39,
+    "lowStockThreshold": 5,
+    "rating": 1,
+    "numReviews": 2,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe82b"
+    },
+    "name": "Beds Item 35",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 86,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50035",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50035"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Small dog"
+    ],
+    "petType": "Parrot",
+    "stock": 27,
+    "lowStockThreshold": 5,
+    "rating": 5,
+    "numReviews": 5,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe82c"
+    },
+    "name": "Beds Item 36",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 87,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50036",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50036"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe761"
+    },
+    "tags": [
+      "Sweet",
+      "Natural"
+    ],
+    "petType": "Parrot",
+    "stock": 58,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 16,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe82d"
+    },
+    "name": "Beds Item 37",
+    "description": "High quality Beds for your beloved pet.",
+    "price": 70,
+    "image": "https://loremflickr.com/900/900/dog,bed?lock=50037",
+    "images": [
+      "https://loremflickr.com/900/900/dog,bed?lock=50037"
+    ],
+    "category": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75b"
+    },
+    "brand": {
+      "$oid": "6ac3a6f02ca9e4d46d5fe75d"
+    },
+    "tags": [
+      "Small dog",
+      "Sweet"
+    ],
+    "petType": "Dog",
+    "stock": 54,
+    "lowStockThreshold": 5,
+    "rating": 4,
+    "numReviews": 12,
+    "variants": [],
+    "reviews": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T13:32:32.997Z"
+    }
+  }
+]
